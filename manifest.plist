@@ -15,7 +15,7 @@
                     <string>software-package</string>
                     <!-- required.the URL of the file to download.-->
                     <key>url</key>
-                    <string>http://127.0.0.1:8000/%E5%BE%AE%E4%BF%A1_03%202.ipa</string>
+                    <string>http://10.0.0.100:8000/%E5%BE%AE%E4%BF%A1_03%202.ipa</string>
                 </dict>
                 <!-- display-image: the icon to display during download .-->
                     <dict>
@@ -25,7 +25,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://127.0.0.1:8000/AAAABbpiPTiGdf9lzOjVwh7tD852zp6WxEJH_Hxakwzg9UihBkai99oCBHrci8gpq9C8gESLMmUe42qRdqhSnWkiDW3QSy4Ngq3cHMFv.jpg</string>
+                        <string>http://10.0.0.100:8000/AAAABbpiPTiGdf9lzOjVwh7tD852zp6WxEJH_Hxakwzg9UihBkai99oCBHrci8gpq9C8gESLMmUe42qRdqhSnWkiDW3QSy4Ngq3cHMFv.jpg</string>
                     </dict> 
             </array>
             <key>metadata</key>
